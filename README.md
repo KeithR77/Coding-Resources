@@ -60,7 +60,13 @@ Brought to you by [KCodes](https://www.kcodes.me)
 | Name | Description | System Support | Price | Link |
 | --- | --- | --- | --- | --- |
 | Visual Studio Code | A highly popular lightweight but powerful source code editor. With a wide array of plugins, extensions, and support for various languages & frameworks. | `Windows` `Mac` `Linux` `Online` `Chrome OS` | Free | [Offical Website](https://code.visualstudio.com/) 
-| IntelliJ IDEA | A powerful Java IDE with advanced coding assistance and tools for full-stack web and enterprise development. | `Windows` `Mac` `Linux` | Paid / Free-Trial | [Official Website](https://www.jetbrains.com/idea/download/?section=windows) 
+| IntelliJ IDEA | A powerful Java IDE with advanced coding assistance and tools for full-stack web and enterprise development. | `Windows` `Mac` `Linux` | Paid / Free-Trial | [Official Website](https://www.jetbrains.com/idea/download/?section=windows)
+| PyCharm | An integrated development environment used for programming in Python. It provides code analysis, a graphical debugger, an integrated unit tester, integration with version control systems, and supports web development with Django. | `Windows` `Mac` `Linux` | Paid / Free-Trial | [Offical Website](https://www.jetbrains.com/pycharm/)
+| RubyMine| An integrated development environment that helps you be more productive in every aspect of Ruby/Rails projects development – from writing and debugging code to testing and deploying a completed application. | `Windows` `Mac` `Linux` | Paid / Free-Trial | [Official Website](https://www.jetbrains.com/ruby/)
 | Eclipse |  An integrated development program for developing various computer applications using especially Java language as well as others, including C/C++, Python, PERL, Ruby, and many more. | `Windows` `Mac` `Linux` | Free | [Offical Website](https://netbeans.apache.org/)
+| Apache NetBeans | NetBeans allows for a variety of applications (primarily Java), to be developed from a set of modular software components called modules. | `Windows` `Mac` `Linux` `Solaris` | Free | [Offical Website](https://netbeans.apache.org/front/main/download/)
+| GameMaker | GameMaker Studio 2 is a complete development tool/environment for making 2D games. Utilized by indie developers, professional studios, and educators worldwide. Allows for the creation and compatability of games for a wide array of systems and devices. | `Windows` `Mac` | Paid / Free-Trial | [Offical Website](https://gamemaker.io/en)
+| Xcode | Apple's IDE which enables you to develop, test, and distribute apps for all Apple platforms. Code and design your apps faster with enhanced code completion, interactive previews, and live animations.  | `Mac` | Free | [Offical Website](https://developer.apple.com/xcode/)
+
 
 <!-- TODO : Career Sites Section -->
